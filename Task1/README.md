@@ -99,7 +99,3 @@ Try deeper models (ResNet18, EfficientNet)
 Experiment with custom datasets or real-time webcam inputs
 Deploy as a web app using Flask or Streamlit
 
-
-🙋‍♀️ Author
-Parimala Dharshini
-LinkedIn
